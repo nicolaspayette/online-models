@@ -13,6 +13,8 @@ git submodule update --init
 ./sbt netlogo/run
 ```
 
+You will need an OAuth2 "personal access token" to identify yourself to GitHub when using the tool. You can get one at https://github.com/settings/tokens.
+
 I gave a talk about this at [SSC2018](http://ssc2018.dsv.su.se/). Here are:
 
 - [The slides](documents/ssc2018/slides/ssc2018-online-models-slides.pdf)
