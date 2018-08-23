@@ -2,7 +2,7 @@
 
 This is the repository for a tool that I'm developing to show NetLogo models hosted on GitHub from within NetLogo.
 
-I will eventually turn the tool into a proper NetLogo plugin and hosted here, but it is currently being developed inside a fork of NetLogo at https://github.com/nicolaspayette/NetLogo.
+I will eventually turn the tool into a proper NetLogo plugin and hosted here, but it is currently being developed inside a fork of NetLogo at https://github.com/nicolaspayette/NetLogo/tree/online-models.
 
 To try it, from a bash terminal:
 
